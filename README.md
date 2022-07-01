@@ -6,6 +6,8 @@
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I have a PhD in Theoretical Math (UT - Austin, 2022)
 
+I have one portfolio project on Data Cleaning and Machine Learning listed in my repository (July 2022)
+
 <!--
 **andygma567/andygma567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
