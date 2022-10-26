@@ -1,10 +1,10 @@
 <img src= https://raw.githubusercontent.com/andygma567/andygma567/23cfdb63a8a737ac7bbf607e740deb138fb6caca/header.png>
 
-- 🌱 I’m currently learning ... Machine Learning Engineering
+- 🌱 I’m currently learning ... Machine Learning Engineering 
 - 🤔 I’m looking for help with ... Finding a job
 - 💬 Ask me about ... Fluid Dynamics and PDEs
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: I have a PhD in Theoretical Math (UT - Austin, 2022)
+- ⚡ Fun fact: I have a PhD in Pure Math (UT - Austin, 2022)
 
 I have a few portfolio projects on Machine Learning listed in my repositories (Oct 2022)
 
